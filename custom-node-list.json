@@ -1,6 +1,16 @@
 {
     "custom_nodes": [
         {
+            "author": "Benis-me",
+            "title": "ComfyMC-Service",
+            "reference": "https://github.com/benis-me/ComfyMC-Service",
+            "files": [
+                "https://github.com/benis-me/ComfyMC-Service"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyMC 扩展服务"
+        },
+        {
             "author": "comfyanonymous",
             "title": "ComfyUI_experiments",
             "reference": "https://github.com/comfyanonymous/ComfyUI_experiments",
