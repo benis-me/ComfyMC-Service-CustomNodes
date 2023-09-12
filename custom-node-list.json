@@ -11,6 +11,16 @@
             "description": "ComfyMC 扩展服务"
         },
         {
+            "author": "LucianoCirino",
+            "title": "Efficiency-Nodes-Comfymc",
+            "reference": "https://github.com/benis-me/efficiency-nodes-comfymc",
+            "files":[
+                "https://github.com/benis-me/efficiency-nodes-comfymc"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI 自定义节点的集合，有助于简化工作流程并减少节点总数"
+        },
+        {
             "author": "comfyanonymous",
             "title": "ComfyUI_experiments",
             "reference": "https://github.com/comfyanonymous/ComfyUI_experiments",
